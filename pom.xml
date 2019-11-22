@@ -33,7 +33,7 @@
 		<jsoup-version>1.12.1</jsoup-version>
 		<mockito-version>1.9.0</mockito-version>
 		<mariadb-version>2.4.0</mariadb-version>
-		<springsecurity-version>5.0.7.RELEASE</springsecurity-version>
+		<springsecurity-version>5.2.1.RELEASE</springsecurity-version>
 	</properties>
 	<dependencies>
 		<!-- Spring -->
